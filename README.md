@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at Github!
 
-- 💬 Ask me about **Webdevelopent,webScrapping,Game Development**
+- 💬 Ask me about **Webdevelopment,webScrapping,Game Development**
 
 - 📫 How to reach me **akshaysasidhar5@gmail.com**
 
